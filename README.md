@@ -1,1 +1,1 @@
-# Dice-Rolling-simulator
+# Diabetes_prediction
